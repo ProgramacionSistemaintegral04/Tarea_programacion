@@ -77,3 +77,5 @@ class Cliente(Entidad):
             'documento': self._documento,
             'direccion': self._direccion
         }
+
+# Ejemplo de uso
